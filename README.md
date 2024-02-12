@@ -21,9 +21,6 @@ Tela de detalhes
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-petshop/assets/19363871/67bd46d9-9dc9-4c1b-93da-d102ca653665)
 
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-petshop/tree/main) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-petshop/archive/refs/heads/main.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto` git clone https://github.com/Amanda92Cortez/alura-petshop.git
 - ` Executar ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
