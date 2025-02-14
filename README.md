@@ -3,9 +3,7 @@
     PetShop
     <br />
     <br />
-    <a href="https://docusaurus.io">
-      <img src="assets/img/image_06.gif" alt="Docusaurus">
-    </a>
+    <img src="assets/img/banner.avif" alt="Banner">
     <br />
   </h1>
 
